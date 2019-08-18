@@ -2,14 +2,14 @@
 
 ## About
 
-Motherland — educational historical website, developing for improving knowledge of Russians about their history. About peoples, who made parts of our motherland so unique, about buildings and memorials, what wanna see peoples all around the world, about smallest streets, and about how WWII changed life all of the country.
+Motherland – social network for people who wants to exploring and protecting their history.
 
 ## History
-
 I did a little testing among completely random people on questions related to the history of their native land.
-Unfortunately, it showed very bad results.
-It's no secret that modern man spends a lot of time for the Internet.
-Hence the clear goal that this project should solve - it should be a social network with a huge amount of local history material about all regions of Russia, and not anyhow, but well structured by headings. Everyone will be able to add their own material, thereby developing the project.
+Unfortunately, it showed very bad results. People not interested in their history. Look at the Ukraine: they try to change OUR history because Russians are "agrressors". What?! Is it normal? I think we are brothers and should be together.
+
+It's no secret that modern human spends a lot of time for the Internet.
+Hence the clear goal that this project should solve - it should be a social network with a huge amount of local history material about all regions of Russia. Everyone will be able to add their own material, thereby developing the project.
 It turns out that a person solves two needs at once: communicates with other people and self-develops.
 
 Of course, such big plans did not appear immediately from the beginning of development.
@@ -63,8 +63,6 @@ No additional restrictions — You may not apply legal terms or technological me
 |       **Testing:**       | MrProDark, JamesMechsuit, Bughunter, Capitan_Dazh |
 
 ## System requirements
-
-
 | Browser                | Version     |
 | ---------------------- | ----------- |
 | Internet Explorer      | unsupported |
