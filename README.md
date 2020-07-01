@@ -55,20 +55,12 @@ Project licensed by Educational Community License v2.0
 ## Co-authors
 
 |           Role           |                      Peoples                      |
-
 | :----------------------: | :-----------------------------------------------: |
-
 |        **Idea:**         |                     Dadyarri                      |
-
 |       **Design:**        |                       Taron                       |
-
 | **Frontend-developing:** |                     Dadyarri                      |
-
 | **Backend-developing:**  |                     Dadyarri                      |
-
 |  **Content-providing:**  |                   Ninaklyukina                    |
-
 |   **Content-making:**    |                Dadyarri                           |
-
 |       **Testing:**       |                                                   |
 
