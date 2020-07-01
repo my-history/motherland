@@ -22,7 +22,7 @@ During development, I put all my heart into the project and I hope you will appr
 ## Leave feedback:
 
 - [Vkontakte](https://vk.com/dadyarri)
-- [Telegram](https://tele.click/dadyarri)
+- [Telegram](https://t.me/dadyarri)
 
 ## Follow me:
 
@@ -31,26 +31,7 @@ During development, I put all my heart into the project and I hope you will appr
 
 ## License:
 
-Project licensed by Creative Common Attribution-NonCommercial-ShareAlike 4.0 International
-
-### You are free to:
-
-Share — copy and redistribute the material in any medium or format
-
-Adapt — remix, transform, and build upon the material
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-### Under the following terms:
-
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-NonCommercial — You may not use the material for commercial purposes.
-
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
+Project licensed by Educational Community License v2.0
 ## Co-authors
 |           Role           |                      Peoples                      |
 | :----------------------: | :-----------------------------------------------: |
@@ -59,15 +40,6 @@ No additional restrictions — You may not apply legal terms or technological me
 | **Frontend-developing:** |                     Dadyarri                      |
 | **Backend-developing:**  |                     Dadyarri                      |
 |  **Content-providing:**  |                   Ninaklyukina                    |
-|   **Content-making:**    |                Dadyarri, MrProDark                |
-|       **Testing:**       | MrProDark, JamesMechsuit, Bughunter, Capitan_Dazh |
+|   **Content-making:**    |                Dadyarri                           |
+|       **Testing:**       |                                                   |
 
-## System requirements
-| Browser                | Version     |
-| ---------------------- | ----------- |
-| Internet Explorer      | unsupported |
-| Microsoft Edge         | 16+         |
-| Mozilla Firefox        | 52+         |
-| Google Chrome          | 57+         |
-| Apple Safari MacOS/iOS | 10.1+/10.3+ |
-| Opera                  | 44+         |
