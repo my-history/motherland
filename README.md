@@ -5,62 +5,51 @@
 Моя Родина – социальная сеть для людей, которые хотят изучить и сохранить свою историю.
 
 ## История развития
+Я провел небольшое тестирование по вопросам, связанных с историей их малой Родины среди случайных лодей.
 
-I did a little testing among completely random people on questions related to the history of their native land.
+К сожалению, оно показало неутешительные результаты. Люди не заинтересованы в своей истории.
 
-Unfortunately, it showed very bad results. People not interested in their history. Look at the Ukraine: they try to change OUR history because Russians are "agrressors". What?! Is it normal? I think we are brothers and should be together.
+Ни для кого не секрет, что современный человек проводит много времени в интернете.
 
+Становится очевидна цель проекта: это должна быть социальная сеть с огромным количеством материалов по истории всех регионов России. Каждый человек должен иметь возможность добавить свои материалы, тем самым развивая проект.
 
+Таким образом проект решает сразу две задачи: общение с большим количеством людей через саморазвитие.
 
-It's no secret that modern human spends a lot of time for the Internet.
+Конечно, такие титанические планы родились не сразу.
 
-Hence the clear goal that this project should solve - it should be a social network with a huge amount of local history material about all regions of Russia. Everyone will be able to add their own material, thereby developing the project.
+Изначально это был маленький школьный проект, который делался, "чтобы отстали", но я быстро понял, насколько интересную тему выбрал и решил продолжить разработку после защиты проекта.
 
-It turns out that a person solves two needs at once: communicates with other people and self-develops.
+Проект участвовал в нескольких конкурсах и кое-где даже выигрывал награды.
 
+Во время разработки, я вложил всю душу в проект, и надеюсь вы это оцените.
 
+## Оставьте отзыв:
 
-Of course, such big plans did not appear immediately from the beginning of development.
-
-Initially, it was a small school project that was made “to get behind”. But I quickly realized that I had chosen a very interesting topic and decided to continue development after the project was completed.
-
-
-
-The project participated in various competitions several times, and even somewhere won prizes.
-
-
-
-During development, I put all my heart into the project and I hope you will appreciate it.
-
-
-
-## Leave feedback:
-
-- [Vkontakte](https://vk.com/dadyarri)
+- [ВКонтакте](https://vk.com/dadyarri)
 
 - [Telegram](https://t.me/dadyarri)
 
 
-## Follow me:
+## Подпишитесь на обновления:
 
-- [Vkontakte](https://vk.com/iandmymotherland)
+- [ВКонтакте](https://vk.com/iandmymotherland)
 
 - [Patreon](https://patreon.com/motherland)
 
-## License:
+## Лицензия:
 
-Project licensed by Educational Community License v2.0
+Проект лицензирован по Educational Community License v2.0
 
 
-## Co-authors
+## Со-авторы
 
-|           Role           |                      Peoples                      |
+|           Роль           |                      Люди                      |
 | :----------------------: | :-----------------------------------------------: |
-|        **Idea:**         |                     Dadyarri                      |
-|       **Design:**        |                       Taron                       |
-| **Frontend-developing:** |                     Dadyarri                      |
-| **Backend-developing:**  |                     Dadyarri                      |
-|  **Content-providing:**  |                   Ninaklyukina                    |
-|   **Content-making:**    |                Dadyarri                           |
-|       **Testing:**       |                                                   |
+|        **Идея:**         |                     Dadyarri                      |
+|       **Дизайн:**        |                       Taron                       |
+| **Frontend-разработка:** |                     Dadyarri                      |
+| **Backend-разработка:**  |                     Dadyarri                      |
+|  **Предоставление материалов:**  |                   Ninaklyukina                    |
+|   **Обработка материалов:**    |                Dadyarri                           |
+|       **Тестирование:**       |                                                   |
 
