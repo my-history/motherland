@@ -5,10 +5,11 @@ from django.db import models
 
 class Post(models.Model):
     id = models.IntegerField(primary_key=True)
-    author = models.OneToOneField(
+    author = models.ForeignKey(
         settings.AUTH_USER_MODEL,
         on_delete=models.CASCADE,
-        verbose_name="Post's author"
+        verbose_name="Post's author",
+        related_name="+"
     )
     date = models.DateTimeField(verbose_name="Post creation datetime")
     title = models.TextField(verbose_name="Post's title")
@@ -27,7 +28,8 @@ class Comment(models.Model):
     author = models.OneToOneField(
         settings.AUTH_USER_MODEL,
         on_delete=models.SET_NULL,
-        verbose_name="Author of the comment"
+        verbose_name="Author of the comment",
+        null=True
     )
     to = models.OneToOneField(
         Post,
@@ -41,13 +43,12 @@ class Comment(models.Model):
 
 class BaseUser(AbstractUser):
     rating = models.IntegerField(verbose_name="User's rating")
-    posts = models.ManyToManyField(
+    posts = models.ForeignKey(
         Post,
         on_delete=models.CASCADE,
         verbose_name="Posts of the User"
     )
     comments = models.ManyToManyField(
         Comment,
-        on_delete=models.CASCADE,
         verbose_name="Comments of the User"
     )
