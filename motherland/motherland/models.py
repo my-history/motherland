@@ -16,3 +16,4 @@ class Post(models.Model):
     content_raw = models.TextField(verbose_name="Post's markdown markup")
     # comments = None  # many-to-many к Comment
     rating = models.IntegerField(verbose_name="Rating of post")
+    blog = models.BooleanField(verbose_name="Post from blog or not")
